@@ -1,4 +1,4 @@
-### !!Olá pessoal, me chamo Matheus e sim, matias é só um apelido 😁
+### Olá pessoal!! me chamo Matheus e sim, matias é só um apelido 😁
 
 - 🔭 Eu estudo programação por conta própria
 - 🌱 Estou estudando PHP e MYSQL atualmente
