@@ -1,7 +1,7 @@
 ### Olá pessoal!! me chamo Matheus e sim, matias é só um apelido 😁
 
 - 🔭 Eu estudo programação por conta própria
-- 🌱 Estou estudando PHP e MYSQL atualmente
+- 🌱 Estou estudando HTML5, CSS3, PHP e MYSQL atualmente
 
 <div align="center">
   <a href="https://github.com/matiash26">
