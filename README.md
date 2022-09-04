@@ -1,6 +1,6 @@
 ### Olá pessoal!! me chamo Matheus e sim, matias é só um apelido 😁
 
-- 🔭 Eu estudo programação por conta própria e aprendo a linguagem na medida que for surgindo as necessidades, por isso tem um pouco de cada
+- 🔭 Eu estudo programação por conta própria e aprendo a linguagem na medida que for surgindo as necessidades, por isso tem um pouco de cada e seus projetos
 - 🌱 atualmente estou estudando React
 
 <div align="center">
