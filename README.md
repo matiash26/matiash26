@@ -1,10 +1,9 @@
 ### Olá pessoal!! me chamo Matheus e sim, matias é só um apelido 😁
 
 - 🔭 Eu estudo programação por conta própria e aprendo a linguagem na medida que for surgindo as necessidades, por isso tem um pouco de cada e seus projetos
-- 🌱 atualmente estou estudando Reactjs
+- 🌱 atualmente estou estudando Nextjs e Typescript
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiash26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiash26&layout=compact&langs_count=7&theme=dracula"/>
 </div>
